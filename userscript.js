@@ -6,6 +6,7 @@
 // @namespace      https://github.com/zanglang/lowyat
 // @icon           https://forum.lowyat.net/favicon.ico
 // @include        http*://forum.lowyat.net/*
+// @downloadURL    https://raw.githubusercontent.com/zanglang/lowyat/master/userscript.js
 // ==/UserScript==
 
 /*global unsafeWindow: true, GM_addStyle: true  */
